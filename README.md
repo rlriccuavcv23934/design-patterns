@@ -1,5 +1,6 @@
-## It楠老师亲自录制的23中设计模式。
+## It楠老师亲自录制的23种设计模式。
 ### 视频和文件资料可以在抖音，搜索 it楠老师 进行购买价格19.9，很便宜实惠。
+### 文档地址：https://ydlclass.com/doc21xnv/java/source/pattern/1.html 购买后联系我查看
 ### 每一种模式都有详细讲解。
 1. 创建型模式（Creational Patterns）：这类模式主要关注对象的创建过程。它们分别是：
    - **单例模式（Singleton）**
